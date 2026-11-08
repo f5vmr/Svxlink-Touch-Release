@@ -95,4 +95,20 @@ ef4fa4d42c9334eb5656d0b59db7df3818e621d7e2a1e00f4f2b0267f9a6a793
 
 Users familiar with checksum utilities may compare this value with the SHA-256 hash of their downloaded APK.
 
+### Keeping SvxLink-Touch Connected When the Phone Sleeps
+
+SvxLink-Touch is designed to maintain its reflector connection while the phone screen is switched off.
+
+Some Android phones apply battery-saving restrictions that can interrupt background network connections.
+
+If your connection drops when the screen switches off:
+
+1. Open **Settings → Apps → SvxLink Touch → Notifications** and enable notifications.
+2. Open **Settings → Apps → SvxLink Touch → Battery** and select **Unrestricted**, if available.
+3. On Samsung phones, open **Settings → Battery → Background usage limits → Never auto sleeping apps** and add SvxLink Touch.
+
+The exact menu names may differ depending on the phone manufacturer and Android version.
+
+These settings allow the operator to prioritise continuous reflector operation over maximum battery saving.
+
 Published by G4NAB.
