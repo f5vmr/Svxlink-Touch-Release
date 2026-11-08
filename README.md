@@ -87,11 +87,11 @@ Important: Select an authorised talkgroup before transmitting. TG0 is standby an
 
 Download verification
 
-Version: 0.2
+Version: 0.3
 
 SHA-256 checksum
 
-30adf464d9faa49513c2ed56194f26c81633ca892655d7407dea1535ee11353d
+ef4fa4d42c9334eb5656d0b59db7df3818e621d7e2a1e00f4f2b0267f9a6a793
 
 Users familiar with checksum utilities may compare this value with the SHA-256 hash of their downloaded APK.
 
