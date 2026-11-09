@@ -19,7 +19,7 @@ Step 1 — Download the application
 
 On your Android phone, open your web browser and visit the download link below:
 
-[Download SvxLink-Touch-Android v0.3 - ](https://github.com/f5vmr/Svxlink-Touch-Release/releases/download/Svxlink-Touch-Android-V0.3/SvxLink-Touch-Android-v0.3.apk)
+[Download SvxLink-Touch-Android v0.4 - ](https://github.com/f5vmr/Svxlink-Touch-Release/releases/download/Svxlink-Touch-Android-V0.4/SvxLink-Touch-Android-v0.4.apk)
 
 The APK file will be downloaded to your phone, usually into the Downloads folder.
 
